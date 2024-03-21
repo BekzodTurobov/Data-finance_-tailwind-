@@ -1,0 +1,5 @@
+yarn create react-app my-project
+cd my-project
+yarn add -D tailwindcss
+npx tailwindcss init
+yarn start
